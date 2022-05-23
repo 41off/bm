@@ -441,7 +441,7 @@
    }
 
   
-        var video_directory = ['https://www.dropbox.com/s/nz4efjj48qr3650/XPG-05-19-2020-2k.mp4?raw=1',
+        var video_directory = ['https://www.dropbox.com/s/2regxmnj23nuzrp/XBM-05-22-2022.mp4?raw=1',
                                
                                ];                      
  
