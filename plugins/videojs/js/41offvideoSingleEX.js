@@ -442,6 +442,7 @@
 
   
         var video_directory = ['https://www.dropbox.com/s/2regxmnj23nuzrp/XBM-05-22-2022.mp4?raw=1',
+                               'https://www.dropbox.com/s/jwpxqiwwj56xq95/BM-07-30-2022.mp4?raw=1',
                                
                                ];                      
  
