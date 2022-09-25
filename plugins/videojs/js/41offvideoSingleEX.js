@@ -451,6 +451,8 @@
                                'https://www.dropbox.com/s/jwpxqiwwj56xq95/BM-07-30-2022.mp4?raw=1',
                                'https://www.dropbox.com/s/edmzbekc0u2e5o4/BM-08-13-2022.mp4?raw=1',
                                'https://www.dropbox.com/s/pbb0vwomsyvpmer/BM-08-18-2022.mp4?raw=1',
+                               'https://www.dropbox.com/s/79t4ontu7s83lcu/BM-09-24-2022-Set-1.mp4?raw=1',
+                               'https://www.dropbox.com/s/delfgef7cjsxe11/BM-09-24-2022-Set-2.mp4?raw=1',
                               ];                      
  
   
